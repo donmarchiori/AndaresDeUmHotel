@@ -11,3 +11,5 @@ def calculadora(num1, num2, operacao):
     else:
         print("Operação inválida. Resultado: 0")
         return 0
+    resultado = calculadora (4,7,1)
+    print(resultado)
